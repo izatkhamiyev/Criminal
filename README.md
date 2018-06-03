@@ -1,2 +1,2 @@
-# Learning_log
-Whenever you learn something new about a topic, make an entry summarizing what you've learned.
+# Criminal Intent
+here you can track criminals which were executed
